@@ -3,7 +3,7 @@ Some icons for Hexchat.
 
 Copy all icons (or which you want) from PNG folder to ~/.config/hexchat/icons
 
-Note: These icons at size (18x18) and they are tested on Budgie DE system tray.
+Note: These png icons at size (18x18) are tested on Budgie DE system tray.
 
 **Icon Preview**
 
