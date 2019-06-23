@@ -7,12 +7,11 @@ Note: These icons at size (18x18) and they are tested on Budgie DE system tray.
 
 **Icon Preview**
 
-/hexchat-icon-theme/Pictures/all_icons.png
+![](https://github.com/algent-al/hexchat-icon-theme/blob/master/Pictures/all_icons.png)
 
-![icons preview](https://github.com/algent-al/hexchat-icon-theme/master/assets/preview.png)
 
 **System tray Preview**
 
-![icons preview](https://github.com/algent-al/hexchat-icon-theme/master/assets/hexchat_tray_normal.png)
-![icons preview](https://github.com/algent-al/hexchat-icon-theme/master/assets/hexchat_tray_message.png)
+![](https://github.com/algent-al/hexchat-icon-theme/blob/master/Pictures/hexchat_tray_normal.png)
 
+![](https://github.com/algent-al/hexchat-icon-theme/blob/master/Pictures/hexchat_tray_message.png)
