@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="96"
+   height="96"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="tray_message5.svg"
+   inkscape:export-filename="/home/algent/.config/hexchat/icons/tray_message.png"
+   inkscape:export-xdpi="18"
+   inkscape:export-ydpi="18"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   viewBox="0 0 57.6 57.6">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="958"
+     id="namedview13"
+     showgrid="false"
+     inkscape:zoom="3.6371805"
+     inkscape:cx="49.02231"
+     inkscape:cy="2.6368813"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g9"
+     scale-x="0.6"
+     inkscape:pagecheckerboard="true" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#ffffff; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+  </defs>
+  <g
+     id="g9"
+     transform="matrix(3.9998162,0,0,4.2857142,-1.9994485,-3.4285705)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="/home/algent/.config/hexchat/icons/g9.png">
+    <path
+       style="color:#ffffff;fill:#ffffff;stroke-width:0.87638432"
+       class="ColorScheme-Text"
+       d="M 4.5577647,1.5933799 C 4.2340375,1.5931397 3.9346775,1.7549862 3.7721143,2.0181354 L 0.62251462,7.1375732 c -0.16350604,0.2648253 -0.16350604,0.5917009 0,0.8565256 L 3.7721143,13.113235 C 3.9345959,13.376501 4.2339712,13.540177 4.5577647,13.54 h 6.2883913 c 0.323224,-3.57e-4 0.621861,-0.163962 0.784056,-0.426765 l 3.147705,-5.1191362 c 0.163506,-0.2648247 0.163506,-0.5917003 0,-0.8565256 L 11.630212,2.0181354 C 11.467935,1.755449 11.169316,1.5936737 10.846156,1.5933799 Z m 5.5030283,1.7063988 c 0.231774,-8.86e-5 0.447672,0.1054009 0.572976,0.2799577 v 0.00167 L 7.7019293,6.3593946 4.7704068,3.5795889 C 4.8898281,3.4128103 5.0923448,3.3084027 5.3134112,3.2996432 Z M 3.8037443,5.0761939 6.4294876,7.5657763 3.8037443,10.05566 2.3941008,7.8726279 c -0.123248,-0.1895281 -0.123248,-0.4237239 0,-0.6132504 L 3.8036485,5.0763754 Z m 7.7965607,0 1.409546,2.183002 c 0.123254,0.1895273 0.123254,0.4237223 0,0.6132504 L 11.600208,10.055781 8.9744655,7.5658971 11.600208,5.076315 Z M 7.7020248,8.7723238 10.631953,11.550317 C 10.50743,11.725034 10.292261,11.831122 10.06076,11.83194 H 5.3433513 c -0.2317707,9.1e-5 -0.4476692,-0.1054 -0.5729762,-0.279945 L 7.7018973,8.7721864 Z"
+       id="path5"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g93"
+       transform="matrix(1.2000001,0,0,0.99999993,-1.5400435,7.3337136e-7)">
+      <path
+         inkscape:export-ydpi="18"
+         inkscape:export-xdpi="18"
+         inkscape:export-filename="/home/algent/.config/hexchat/icons/path13.png"
+         inkscape:connector-curvature="0"
+         style="color:#5294e2;fill:#00a0f0;stroke-width:0.57283515"
+         class="ColorScheme-Highlight"
+         d="m 4.3250612,4.1599994 c -0.6232794,0 -1.125052,0.520334 -1.125052,1.166667 V 9.993332 c 0,0.646334 0.5017726,1.166668 1.125052,1.166668 H 11.07537 c 0.623278,0 1.125052,-0.520334 1.125052,-1.166668 V 5.3266664 c 0,-0.646333 -0.501774,-1.166667 -1.125052,-1.166667 z m 0,1.166667 3.3751554,1.749999 3.3751534,-1.749999 v 1.166667 L 7.7002166,8.2433314 4.3250612,6.4933334 Z"
+         id="path13" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path23"
+         d="m 4.3250611,5.3266663 3.3751553,1.749999 3.3751536,-1.749999 v 1.166667 L 7.7002164,8.2433312 4.3250611,6.4933333 v -1.166667"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.1449171px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
